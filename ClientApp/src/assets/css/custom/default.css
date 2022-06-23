@@ -1,0 +1,65 @@
+.v-text-field.v-text-field--solo .v-input__control{
+    height: 5px!important;
+}
+
+/* .v-text-field{
+    width: 100%;
+    height: 50px;
+} */
+
+.v-label{
+  font-size: 13px!important;
+}
+
+.v-row{
+    height: 2px!important;
+}
+
+.v-expansion-panel{
+    background:linear-gradient(45deg,white 1.2%, #A8ACFC 30% , #A8ACFC 90% ,#f79534 40% )!important;
+}
+/* .v-expansion-panel-content{
+    background-color: #f0f8ff;
+} */
+
+.v-expansion-panel-content{
+    font-size:14px;background-color:white!important;padding-top:20px;
+}
+
+.v-expansion-panel-header{
+    font-size:20px;font-weight:bolder;color:black;
+}
+
+.v-application{
+    background: aliceblue!important;
+}
+
+.v-sheet{
+    border-radius:9px!important;
+}
+
+.v-card__text{
+    text-align: center;
+    padding-top: 19px!important;
+}
+
+.v-slide-group__prev{
+    display: none!important;
+}
+
+.v-tab--active{
+    background: linear-gradient(to top, #a8adb2 2%, #d8dfe5 20% , #d8dfe5 15%,#f0f8ff 40%, #ffffff 100% );
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+.v-tab:hover{
+    background: linear-gradient(to top, #a8adb2 2%, #d8dfe5 20% , #d8dfe5 15%,#f0f8ff 40%, #ffffff 100% );
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+.custom-menu-tab{
+    font-size:12px;
+    text-decoration: none;
+}
